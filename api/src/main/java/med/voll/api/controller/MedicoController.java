@@ -1,6 +1,5 @@
 package med.voll.api.controller;
 
-import jakarta.persistence.Entity;
 import med.voll.api.medico.DadosCadastroMedico;
 import med.voll.api.medico.Medico;
 import med.voll.api.repository.MedicoRepository;
